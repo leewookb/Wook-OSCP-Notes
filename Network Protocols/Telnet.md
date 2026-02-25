@@ -1,0 +1,3 @@
+```jsx
+telnet $IP [PORT]
+```
